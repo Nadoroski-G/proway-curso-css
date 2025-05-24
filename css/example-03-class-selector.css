@@ -25,3 +25,27 @@ button {
 .info {
     background-color: #0dcaf0;
 }
+
+.primary:hover {
+    background-color: #072b61;
+}
+
+.secondary:hover {
+    background-color: #43484d;
+}
+
+.danger:hover {
+    background-color: #641921;
+}
+
+.warning:hover {
+    background-color: #806104;
+}
+
+.success:hover {
+    background-color: #0e492d;
+}
+
+.info:hover {
+    background-color: #065868;
+}
