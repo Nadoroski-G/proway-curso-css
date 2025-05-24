@@ -1,0 +1,22 @@
+body {
+    background-color: #aac3d8;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+div {
+    background-color: #7dc3cf;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+    display: inline-block;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: #3d7079;
+}
